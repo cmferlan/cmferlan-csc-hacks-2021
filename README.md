@@ -11,4 +11,3 @@ Colin Ferlan
 * Pitt CS, 2023
 * cmf116@pitt.edu
 * Cephre#1438 on Discord
-* https://www.linkedin.com/in/~cmferlan/
